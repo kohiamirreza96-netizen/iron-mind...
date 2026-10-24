@@ -1,0 +1,9 @@
+{
+  "appId": "com.ironmind.app",
+  "appName": "IRON MIND",
+  "webDir": "www",
+  "backgroundColor": "#050b0a",
+  "android": {
+    "allowMixedContent": false
+  }
+}
